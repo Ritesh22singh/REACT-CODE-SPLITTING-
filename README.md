@@ -1,6 +1,6 @@
-# This project aims to enhance the performance of a React application by implementing code splitting using React Router. 
-# Code splitting is a powerful feature that allows you to split your code into various bundles which can then be loaded on demand or in parallel. 
-# This can significantly reduce the initial load time of your application, improving user experience, especially for large applications.
+This project aims to enhance the performance of a React application by implementing code splitting using React Router. 
+Code splitting is a powerful feature that allows you to split your code into various bundles which can then be loaded on demand or in parallel. 
+This can significantly reduce the initial load time of your application, improving user experience, especially for large applications.
 
 Objectives:
 Improve the application's performance by reducing the initial load time.
